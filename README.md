@@ -6,7 +6,7 @@ Click here to view the file that was used for this analysis project: [Kickstarte
 The purpose of this project is to is to compare the results of fundraising campaigns based on their launch dates and their funding goals. We specifically looked at the trends of theaters and plays to determine the successful, failed, and cancelled campaigns.
 
 ### Analysis of Outcomes Based on Launch Date
-For the Outcomes Based on Launch Date, I created a pivot table that filtered the outcomes by category and the launch date. The columns display the status of the campaign, while the row shows the months during the campaign. This allows us to see the total count of successful, failed, and canceled theater campaigns. Below is an image of the pivot table with a filter for the theater category. 
+For the Outcomes Based on Launch Date, I created a pivot table that filtered the outcomes by category and the launch date. The columns display the status of the campaign, while the row shows the months during the campaign. This allows us to see the total count of successful, failed, and canceled theater campaigns.
 
 
 ### Analysis of Outcomes Based on Goals

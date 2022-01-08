@@ -8,6 +8,11 @@ The purpose of this project is to is to compare the results of fundraising campa
 ### Analysis of Outcomes Based on Launch Date
 For the Outcomes Based on Launch Date, I created a pivot table that filtered the outcomes by category and the launch date. The columns display the status of the campaign, while the row shows the months during the campaign. This allows us to see the total count of successful, failed, and canceled theater campaigns.
 
+## Challenges faced:
+ - I use mac. the settings are different. it was difficult to follow google search on few 
+ charting options.
+ - I could not get legends to work in MAC. I used another windows machine to format the charts
+ 
 
 ### Analysis of Outcomes Based on Goals
 To analyze the Outcomes Based on Goals, I created a table that retrieved the total number of campaigns based off of certain criteria. In order to retrieve the correct count, the COUNTIFS statement was used. Within this formula, I set multiple criteria, including a range for the desired campaign goal, the specific category, and the outcomes of these campaigns. In this case, we wanted to look at the subcategory, plays.

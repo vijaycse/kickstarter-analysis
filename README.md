@@ -21,11 +21,15 @@ To analyze the Outcomes Based on Goals, I created a table that retrieved the tot
 ## Results
 
 ### Outcomes Based on Launch Date Conclusions
-From the line chart, we can see that the best month to start a theater campaign is in May as it produces the highest amount of successful outcomes. Similarly, we can infer that December would not be the best month to launch a theater campaign, as it has the lowest number of successful outcomes. In fact, the number of successful campaigns is almost equivalent to the number of failed campaigns during the month of December.
+From the line chart, we can see that the best month to start a theater campaign is in May as it produces the highest amount of successful outcomes. Similarly, we can infer that December would not be the best month to launch a theater campaign, as it has the lowest number of successful outcomes.
 
 ![Outcomes Based on Launch Date](https://github.com/vijaycse/kickstarter-analysis/blob/master/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Outcomes Based on Goals Conclusions
-Although the pattern fluctuates, it is apparent that play campaigns with higher goals tend to have a greater percent chance of failing. We can see that there is a subtle decrease among campaign success as the goal amount becomes larger and larger. However, there is an anomaly at about $35,000, in which we see a sharp increase in the success rate and sharp decrease in failure rate. 
+Although the pattern fluctuates, it is apparent that play campaigns with higher goals tend to have a greater percent chance of failing. We can see that there is a subtle decrease among campaign success as the goal amount becomes larger and larger.
 
 ![Outcomes Based on Goals](https://github.com/vijaycse/kickstarter-analysis/blob/master/resources/Outcomes_vs_Goals.png)
+
+## Other possible reports
+ - Backer's analysis
+ - Campaign's failure analysis and what makes the campaign successful
